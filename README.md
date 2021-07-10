@@ -1,2 +1,2 @@
-# coding_tipps
-Short programming tips and tricks
+# Short Python tips
+A collection of short coding tips for Python. 
